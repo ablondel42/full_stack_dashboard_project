@@ -1,0 +1,1 @@
+This is the backend server that will communicate with postgres on its docker image

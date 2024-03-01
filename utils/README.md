@@ -1,0 +1,1 @@
+This folder will contain the code and utils to generate fake data to display on the frontend
